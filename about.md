@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-We design exclusive Panamanian style hair accessories. Our designs are inspired on **Panamanian tembleques**, a headdress which is made of beads attached to a wire string and is used in Polleras (the Panamanian traditional dress).
+We design stylish style hair accessories using different beading techniques. Our designs are inspired mostly on Panamanian tembleques, headdresses which are made of beads attached to a wire string.
 
 For special orders, please contact us at [crisvaldesigns@gmail.com](mailto:crisvaldesigns@gmail.com).
+
+<img src="../img/IMG_2186.jpg" alt="Crisval Designs" class="center" /> 
 
